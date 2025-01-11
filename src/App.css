@@ -31,8 +31,8 @@ main {
   padding: 100px;
   background-image: url('http://localhost:3000/react-main/goldenbuttonyoutube.png');
   border: 6px solid #f5ea73;
-  background-size: 32% 105%; /* Изображение будет растянуто */
-  background-position: center; /* Центрирование изображения */
+  background-size: 32% 105%; 
+  background-position: center; 
   background-repeat: no-repeat;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
